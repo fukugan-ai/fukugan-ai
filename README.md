@@ -1,21 +1,25 @@
-# 複眼 (Fukugan)
+# Fukugan
 
-> Multi-perspective software craftsmanship — 多角的視点で考えるソフトウェア開発
+> Multi-perspective software craftsmanship
+
+🌐 **English** · [日本語](README.ja.md)
 
 ## About
 
-複眼 (Fukugan) = 多角的視点で物事を考える OSS 開発者。技術判断は 1 人ではなく
-複数の専門家視点を並列に持ち込んで、最も筋の良い解を選ぶ流儀で開発しています。
+**Fukugan (複眼)** means "compound eye" in Japanese — a development philosophy
+of considering problems from multiple expert perspectives in parallel, then
+synthesizing the most robust solution. Every non-trivial technical decision
+is reviewed by a panel of specialist viewpoints before commitment.
 
 ## Tech Stack
 
-- **Rust** (= 性能 critical な server / FFI 層)
-- **Flutter** (= cross-platform mobile / desktop)
-- **Python** (= data / AI / scripting)
+- **Rust** — performance-critical servers / FFI layers
+- **Flutter** — cross-platform mobile / desktop
+- **Python** — data / AI / scripting
 
 ## Projects
 
-- 個人 OSS 開発中 (= 公開準備中)
+- Personal OSS projects in development (public release coming soon)
 
 ## Contact
 
